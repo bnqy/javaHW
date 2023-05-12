@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 
-public class UserInterfaceExample {
+public class UserInterface {
 
    public static void main(String[] args) {
       JFrame frame = new JFrame("User Interface Example");
